@@ -15,7 +15,7 @@ Compile the programe with the following flags set.
 ### Prerequisites
 
 A system running OS X version 10.4 up to macOS High Sierra (current)
-GNU Compiler Collection (GCC)
+and the GNU Compiler Collection (GCC).
 
 ### Installing
 
